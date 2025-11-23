@@ -1,0 +1,13 @@
+streamlit
+openai==0.28
+langchain==0.0.345
+python-dotenv
+PyPDF2
+pandas
+setuptools
+requests
+
+
+#  to install local package : 
+# 1.--> -e. 2. run python setup file
+# -e .
